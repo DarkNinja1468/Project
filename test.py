@@ -1,4 +1,4 @@
-
+int a,b,num;
 
 a = num120+180;
 
